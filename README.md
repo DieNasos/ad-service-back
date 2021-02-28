@@ -8,3 +8,8 @@ Back-end приложения для управления рекламными �
 
 Back-end: Java + Spring Boot + Hibernate ORM + Maven.
 Database: MySQL.
+
+# Сборка и запуск
+
+1. Собрать Maven-проект: mvn package.
+2. Запустить программу: java -jar jarsoftback-0.0.1-SNAPSHOT.jar.
