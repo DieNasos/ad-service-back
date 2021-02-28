@@ -1,0 +1,15 @@
+INSERT INTO categories (name, reqname, deleted) VALUES ('name1', 'reqname1', false);
+INSERT INTO categories (name, reqname, deleted) VALUES ('name2', 'reqname2', false);
+INSERT INTO categories (name, reqname, deleted) VALUES ('name3', 'reqname3', false);
+INSERT INTO categories (name, reqname, deleted) VALUES ('name4', 'reqname4', false);
+INSERT INTO categories (name, reqname, deleted) VALUES ('name5', 'reqname5', false);
+INSERT INTO banners (name, price, category_id, content, deleted) VALUES ('name1', 1.5, 1, 'content1', false);
+INSERT INTO banners (name, price, category_id, content, deleted) VALUES ('name2', 2.5, 1, 'content2', false);
+INSERT INTO banners (name, price, category_id, content, deleted) VALUES ('name3', 3.5, 2, 'content3', false);
+INSERT INTO banners (name, price, category_id, content, deleted) VALUES ('name4', 4.5, 2, 'content4', false);
+INSERT INTO banners (name, price, category_id, content, deleted) VALUES ('name5', 5.5, 3, 'content5', false);
+INSERT INTO banners (name, price, category_id, content, deleted) VALUES ('name6', 6.5, 3, 'content6', false);
+INSERT INTO banners (name, price, category_id, content, deleted) VALUES ('name7', 7.5, 3, 'content7', false);
+INSERT INTO banners (name, price, category_id, content, deleted) VALUES ('name8', 8.5, 4, 'content8', false);
+INSERT INTO banners (name, price, category_id, content, deleted) VALUES ('name9', 9.5, 4, 'content9', false);
+INSERT INTO banners (name, price, category_id, content, deleted) VALUES ('name10', 10.5, 5, 'content10', false);
